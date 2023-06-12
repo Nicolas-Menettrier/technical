@@ -1,0 +1,8 @@
+.card {
+  display: block;
+  height: fit-content;
+  border-radius: 8px;
+  box-shadow: #757575 0px 3px 9px 0px;
+  padding: 16px;
+  font-size: 26px;
+}
